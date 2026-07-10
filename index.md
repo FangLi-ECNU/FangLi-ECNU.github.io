@@ -22,8 +22,8 @@ title: Fang Li (黎芳)
 **Tel**: +86-21-54342646-625
 
 **Mailing Address**:
-> School of Mathematical Sciences 
-> East China Normal University 
-> 500 Dongchuan Rd., Shanghai, 200241 
+> School of Mathematical Sciences  
+> East China Normal University  
+> 500 Dongchuan Rd., Shanghai, 200241  
 > China
 
