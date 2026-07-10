@@ -3,16 +3,20 @@
 # For Fang Li's Academic Homepage
 # ============================================================
 
-title: Fang Li | ECNU
+title: Fang Li / ECNU
 email: fli@math.ecnu.edu.cn
-description: ""
-baseurl: ""   # Set to "/repo-name" if this is a project page
-url: ""       # Will be https://<username>.github.io
+description: >-
+  Fang Li (黎芳), Professor at East China Normal University.
+  Research in image processing, computer vision, machine learning, deep learning.
+baseurl: ""
+url: "https://ecnulifang.github.io"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Navigation header
 header_pages:
