@@ -9,7 +9,7 @@ description: >-
   Fang Li (黎芳), Professor at East China Normal University.
   Research in image processing, computer vision, machine learning, deep learning.
 baseurl: ""
-url: "https://ecnulifang.github.io"
+url: "https://fangli-ecnu.github.io/"
 
 # Build settings
 theme: minima
