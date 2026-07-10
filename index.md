@@ -22,8 +22,8 @@ title: Fang Li | ECNU
 **Tel**: +86-21-54342646-625
 
 **Mailing Address**:
-> <small>School of Mathematical Sciences  <small>
-> <small>East China Normal University<small>  
-> <small>500 Dongchuan Rd., Shanghai, 200241 <small> 
-> <small>China<small>
+> School of Mathematical Sciences 
+> East China Normal University 
+> 500 Dongchuan Rd., Shanghai, 200241 
+> China<small>
 
