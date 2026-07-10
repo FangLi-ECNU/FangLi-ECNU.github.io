@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fang Li | ECNU
+title: Fang Li (黎芳) | ECNU
 ---
 
 <div style="overflow: hidden; margin-bottom: 20px;">
