@@ -1,0 +1,47 @@
+# ============================================================
+# GitHub Pages / Jekyll Configuration
+# For Fang Li's Academic Homepage
+# ============================================================
+
+title: Fang Li (黎芳)
+email: fli@math.ecnu.edu.cn
+description: >-
+  Professor at School of Mathematical Sciences,
+  East China Normal University (ECNU).
+  Research interests: image processing, machine learning,
+  computer vision, deep learning.
+baseurl: ""   # Set to "/repo-name" if this is a project page
+url: ""       # Will be https://<username>.github.io
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation header
+header_pages:
+  - biography.md
+  - publications.md
+  - students.md
+  - teaching.md
+  - funds.md
+  - links.md
+
+# Minima theme customizations
+minima:
+  skin: classic
+  social_links:
+    - platform: google_scholar
+      user_url: "https://scholar.google.com/citations?user=2_8WX68AAAAJ&hl=en"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
