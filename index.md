@@ -8,8 +8,8 @@ title: Fang Li (黎芳)
   <p>
     I am a Professor in the <a href="http://math.ecnu.edu.cn">School of Mathematical Sciences</a> at
     <a href="https://www.ecnu.edu.cn">East China Normal University (ECNU)</a>.
-    My research interests include <strong>image processing</strong>, 
-    <strong>numerical optimization</strong>, and <strong>deep learning</strong>.
+    My research interests include image processing, 
+    numerical optimization, and deep learning.
   </p>
 </div>
 
