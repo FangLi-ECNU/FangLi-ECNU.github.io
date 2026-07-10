@@ -4,7 +4,7 @@ title: Fang Li | ECNU
 ---
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-  <img src="assets/images/lifang1.jpg" width="100" height="100" alt="Fang Li" style="float: left; margin: 5px 20px 10px 0; border-radius: 5px;" />
+  <img src="assets/images/lifang1.jpg" width="100" height="70" alt="Fang Li" style="float: left; margin: 5px 20px 10px 0; border-radius: 5px;" />
   <p>
     I am a Professor in the <a href="http://math.ecnu.edu.cn">School of Mathematical Sciences</a> at
     <a href="https://www.ecnu.edu.cn">East China Normal University (ECNU)</a>.
