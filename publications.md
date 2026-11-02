@@ -34,6 +34,8 @@ permalink: /publications/
 
 - Deliang Wei, Peng Chen, Haobo Xu, Jiale Yao, Fang Li, and Tieyong Zeng. Learning cocoercive conservative denoisers via Helmholtz decomposition for Poisson imaging inverse problems. *NeurIPS 2025*. [[code]](https://github.com/FizzzFizzz/CoCo-PnP)
 
+- Tingting Li, Fang Li, Huiqing Qi. A piecewise gradient prior for small structures and contrast preserving image smoothing. *Applied Mathematics and Computation*, 507, 129557, 2025.
+
 ### 2024
 
 - Deliang Wei, Fang Li, Xiao Shen and Tieyong Zeng. DeepSPIM: Deep semi-proximal iterative method for sparse-view CT reconstruction with convergence guarantee. *CSIAM Transactions on Applied Mathematics*, 5:421–447, 2024.
